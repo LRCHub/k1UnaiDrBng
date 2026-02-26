@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "麻痺 - Mahi",
+  "base_track": "麻痺",
   "base_artist": "yama",
-  "createdAt": "2026-02-17T06:49:52.569351Z",
+  "createdAt": "2026-02-26T22:04:06.464907Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -55,26 +55,26 @@
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "麻痺 - From THE FIRST TAKE",
-      "artist": "Yama",
+      "title": "麻痺 (From The First Take)",
+      "artist": "yama",
       "has_synced": true,
-      "path": "select/07_麻痺_-_From_THE_FIRST_TAKE_Yama.lrc"
+      "path": "select/07_麻痺_(From_The_First_Take)_yama.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "麻痺 (From The First Take)",
+      "title": "yama 『麻痺』MV",
       "artist": "yama",
       "has_synced": true,
-      "path": "select/08_麻痺_(From_The_First_Take)_yama.lrc"
+      "path": "select/08_yama_『麻痺』MV_yama.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "yama 『麻痺』MV",
-      "artist": "yama",
+      "title": "麻痺 - From THE FIRST TAKE",
+      "artist": "Yama",
       "has_synced": true,
-      "path": "select/09_yama_『麻痺』MV_yama.lrc"
+      "path": "select/09_麻痺_-_From_THE_FIRST_TAKE_Yama.lrc"
     },
     {
       "id": "lrclib_10",
